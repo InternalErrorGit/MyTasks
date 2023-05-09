@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTasks</string>
+    <string name="content_descriptio_ib_complete">content_descriptio_ib_complete</string>
+    <string name="content_description_ib_edit">content_descriptio_ib_edit\n</string>
+    <string name="content_description_iv_status">content_description_iv_status</string>
+    <string name="content_description_fb_create_task">content_description_fb_create_task</string>
+</resources>

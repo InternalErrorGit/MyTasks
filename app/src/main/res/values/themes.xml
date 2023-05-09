@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="Base.Theme.MyTasks" parent="Theme.Material3.Light.NoActionBar">
+
+        <item name="android:fontFamily">@font/allerta</item>
+        <item name="android:textColor">@color/color6</item>
+        <item name="android:windowBackground">@color/color6</item>
+
+    </style>
+
+    <style name="Theme.MyTasks" parent="Base.Theme.MyTasks" />
+</resources>
